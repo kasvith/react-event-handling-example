@@ -130,7 +130,7 @@ const ShippingInfo = ({ onChange }: ShippingInfoProps) => {
     setSameDayCollection((prev) => !prev);
 
     // onChange?.({
-    //   sameDayCollection, // idk should we do this inside the setter?
+    //   sameDayCollection, // should we do this inside the setter?
     //   shippingMethod,
     // });
   };
