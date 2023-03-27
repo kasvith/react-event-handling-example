@@ -157,7 +157,7 @@ const ShippingInfo = ({ onChange }: ShippingInfoProps) => {
         />
       </Row>
       <Row>
-        <label htmlFor="productDescription">Product Description: </label>
+        <label htmlFor="productDescription">Same Day Collection: </label>
         <input
           name="productDescription"
           type="checkbox"
